@@ -1,0 +1,2 @@
+language = "cpp"
+run = "g++ -g3 -O0 pol.cpp -o a.out"
